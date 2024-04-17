@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Page Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ma Page Web</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#">À propos</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>À propos de moi</h2>
+            <p>Bienvenue sur ma page personnelle ! Je suis passionné par la création de sites web.</p>
+        </section>
+        <section>
+            <h2>Mes projets</h2>
+            <ul>
+                <li><a href="#">Projet 1</a></li>
+                <li><a href="#">Projet 2</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Ma Page Web</p>
+    </footer>
+</body>
+</html>
